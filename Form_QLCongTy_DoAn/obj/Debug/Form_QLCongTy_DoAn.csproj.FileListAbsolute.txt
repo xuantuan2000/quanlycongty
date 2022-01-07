@@ -1,0 +1,75 @@
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY.mdf
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY_log.ldf
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe.config
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.pdb
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csprojAssemblyReference.cache
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_DangNhap.resources
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_HangHoa.resources
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_Menu.resources
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_NhanVien.resources
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.Properties.Resources.resources
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.GenerateResource.cache
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\dtubi\OneDrive\Máy tính\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.pdb
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.AssemblyReference.cache
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_DangNhap.resources
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_HangHoa.resources
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_Menu.resources
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_NhanVien.resources
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.Properties.Resources.resources
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.GenerateResource.cache
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.CoreCompileInputs.cache
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.exe
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.pdb
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY.mdf
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY_log.ldf
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe.config
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe
+D:\Lập trình C# Winform\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.pdb
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY.mdf
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY_log.ldf
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe.config
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.pdb
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_DangNhap.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_HangHoa.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_Menu.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_NhanVien.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.pdb
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY.mdf
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY_log.ldf
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe.config
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.pdb
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_DangNhap.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_HangHoa.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_Menu.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_NhanVien.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\Administrator\Desktop\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.pdb
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY.mdf
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\QUANLYCONGTY_log.ldf
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe.config
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\bin\Debug\Form_QLCongTy_DoAn.pdb
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_DangNhap.resources
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_HangHoa.resources
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_Menu.resources
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.frm_NhanVien.resources
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.exe
+C:\Users\Administrator\Desktop\Lối tắt\Đồ Án Nhóm\Form_QLCongTy_DoAn\obj\Debug\Form_QLCongTy_DoAn.pdb
